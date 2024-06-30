@@ -1,2 +1,2 @@
-# Band-Name-Generator-in-Python
+# Python-Projects
 
